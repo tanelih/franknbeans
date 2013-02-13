@@ -1,3 +1,3 @@
-Frank N Beans
+## Frank N Beans
 
-small community site demo using backbone, slim and redbean.
+A small community site demo using Backbone.js, Slim and RedBeanPHP.
